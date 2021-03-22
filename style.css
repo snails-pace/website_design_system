@@ -19,6 +19,30 @@ body {
 
 .colors {
     display: inline-block;
-    width: 200px;
+    width: 300px;
     padding: 10px;
+    color: rgb(245, 236, 220);
+    text-align: center;
+    margin: 10px;
+}
+
+#phthalo_green {
+    background-color: #132A13;
+}
+
+#hunter_green {
+    background-color: #31572C;
+}
+
+#sap_green {
+    background-color: #4F772D;
+}
+
+#olivine {
+    background-color: #90A955;
+}
+
+#key_lime {
+    background-color: #ECF39E;
+    color: rgb(219, 188, 130);
 }
