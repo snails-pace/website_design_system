@@ -19,7 +19,8 @@ body {
 
 .colors {
     display: inline-block;
-    width: 300px;
+    width: 20%;
+    min-width: 200px;
     padding: 10px;
     color: rgb(245, 236, 220);
     text-align: center;
